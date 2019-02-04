@@ -9,6 +9,9 @@ target
 */.settings
 */.project
 /.idea
+/.vscode
+*/.factorypath
+*/bin
 atlassian-ide-plugin.xml
 .DS_Store
 dependency-reduced-pom.xml

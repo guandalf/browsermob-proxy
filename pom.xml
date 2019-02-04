@@ -47,14 +47,15 @@
     </scm>
 
     <distributionManagement>
-        <snapshotRepository>
-            <id>ossrh</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-        </snapshotRepository>
         <repository>
-            <id>ossrh</id>
-            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+            <id>rt1-releases</id>
+            <url>http://artifactory.docomodigital.com/artifactory/buongiorno-releases</url>
         </repository>
+        <snapshotRepository>
+            <id>rt1-snapshots</id>
+            <url>http://artifactory.docomodigital.com/artifactory/buongiorno-snapshots</url>
+            <uniqueVersion>false</uniqueVersion>
+        </snapshotRepository>
     </distributionManagement>
 
     <properties>
