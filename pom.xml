@@ -40,9 +40,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:lightbody/browsermob-proxy.git</connection>
-        <developerConnection>scm:git:git@github.com:lightbody/browsermob-proxy.git</developerConnection>
-        <url>git@github.com:lightbody/browsermob-proxy.git</url>
+        <connection>scm:git:git@github.com:guandalf/browsermob-proxy.git</connection>
+        <developerConnection>scm:git:git@github.com:guandalf/browsermob-proxy.git</developerConnection>
+        <url>git@github.com:guandalf/browsermob-proxy.git</url>
         <tag>browsermob-proxy-2.1.5</tag>
     </scm>
 
